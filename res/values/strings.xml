@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">암송자(Reciter)</string>
+    <string name="app_name_en">Reciter</string>
+    <string name="word_tag_a">A - 복음</string>
+    <string name="word_tag_b">B - 양육</string>
+    <string name="word_tag_c">C - 제자의 삶</string>
+    <string name="word_tag_d">D - 군사의 삶</string>
+    <string name="word_tag_e">E - 재생산의 삶</string>
+</resources>
